@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A1874729-716D-4BBD-8F82-B28F44963B27}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>login</RootNamespace>
+    <AssemblyName>login</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="NewLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\NewLibrary\bin\Debug\NewLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AMSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AMSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ObjectHandler.cs" />
+    <Compile Include="UI\Admins\AddFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admins\AddFlight.Designer.cs">
+      <DependentUpon>AddFlight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admins\AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admins\AddStaff.Designer.cs">
+      <DependentUpon>AddStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admins\AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admins\AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admins\RemoveFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admins\RemoveFlight.Designer.cs">
+      <DependentUpon>RemoveFlight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admins\RemoveStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admins\RemoveStaff.Designer.cs">
+      <DependentUpon>RemoveStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admins\UpdateFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admins\UpdateFlight.Designer.cs">
+      <DependentUpon>UpdateFlight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\User\UserPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\User\UserPanel.Designer.cs">
+      <DependentUpon>UserPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admins\ViewFlights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admins\ViewFlights.Designer.cs">
+      <DependentUpon>ViewFlights.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\SignUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SignUP.Designer.cs">
+      <DependentUpon>SignUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\User\BuyTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\User\BuyTicket.Designer.cs">
+      <DependentUpon>BuyTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\User\CancelReservedFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\User\CancelReservedFlight.Designer.cs">
+      <DependentUpon>CancelReservedFlight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\User\GiveFeedBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\User\GiveFeedBack.Designer.cs">
+      <DependentUpon>GiveFeedBack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\User\SearchFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\User\SearchFlight.Designer.cs">
+      <DependentUpon>SearchFlight.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\Admins\AddFlight.resx">
+      <DependentUpon>AddFlight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admins\AddStaff.resx">
+      <DependentUpon>AddStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admins\AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admins\RemoveFlight.resx">
+      <DependentUpon>RemoveFlight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admins\RemoveStaff.resx">
+      <DependentUpon>RemoveStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admins\UpdateFlight.resx">
+      <DependentUpon>UpdateFlight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\User\UserPanel.resx">
+      <DependentUpon>UserPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admins\ViewFlights.resx">
+      <DependentUpon>ViewFlights.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\SignUP.resx">
+      <DependentUpon>SignUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\User\BuyTicket.resx">
+      <DependentUpon>BuyTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\User\CancelReservedFlight.resx">
+      <DependentUpon>CancelReservedFlight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\User\GiveFeedBack.resx">
+      <DependentUpon>GiveFeedBack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\User\SearchFlight.resx">
+      <DependentUpon>SearchFlight.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AMSDataSet.xsc">
+      <DependentUpon>AMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AMSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AMSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AMSDataSet.xss">
+      <DependentUpon>AMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plane.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2024-03-30_130319-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-03-28 205733.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-airplane-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-back-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-forward-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plane-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-new-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sync-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plane-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-stockx-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-view-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-48 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-view-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-update-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-remove-50.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

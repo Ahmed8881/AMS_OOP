@@ -1,0 +1,3 @@
+22A,Ali,Manager,45000
+22B,Amjad,Secretary,30000
+22a,Sherra,Sweeper,100000

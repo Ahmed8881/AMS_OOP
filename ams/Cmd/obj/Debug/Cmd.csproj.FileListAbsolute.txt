@@ -1,0 +1,58 @@
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\obj\Debug\Cmd.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\obj\Debug\Cmd.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\bin\Debug\Cmd.exe.config
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\bin\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\bin\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\bin\Debug\NewLibrary.dll
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\bin\Debug\NewLibrary.pdb
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\obj\Debug\Cmd.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\obj\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\BACK UP\Cmd\obj\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\dream flights\Cmd\bin\Debug\Cmd.exe.config
+C:\Users\LENOVO\Desktop\dream flights\Cmd\bin\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\dream flights\Cmd\bin\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\dream flights\Cmd\bin\Debug\NewLibrary.pdb
+C:\Users\LENOVO\Desktop\dream flights\Cmd\obj\Debug\Cmd.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\dream flights\Cmd\obj\Debug\Cmd.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\dream flights\Cmd\obj\Debug\Cmd.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\dream flights\Cmd\obj\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\dream flights\Cmd\obj\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\obj\Debug\Cmd.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\obj\Debug\Cmd.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\obj\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\obj\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\bin\Debug\Cmd.exe.config
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\bin\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\bin\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\bin\Debug\NewLibrary.dll
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\bin\Debug\NewLibrary.pdb
+C:\Users\LENOVO\Desktop\lib\dream flights (2)\dream flights\Cmd\obj\Debug\Cmd.csproj.CopyComplete
+C:\Users\Hamid\Desktop\butt\Cmd\bin\Debug\Cmd.exe.config
+C:\Users\Hamid\Desktop\butt\Cmd\bin\Debug\Cmd.exe
+C:\Users\Hamid\Desktop\butt\Cmd\bin\Debug\Cmd.pdb
+C:\Users\Hamid\Desktop\butt\Cmd\bin\Debug\NewLibrary.pdb
+C:\Users\Hamid\Desktop\butt\Cmd\obj\Debug\Cmd.csproj.AssemblyReference.cache
+C:\Users\Hamid\Desktop\butt\Cmd\obj\Debug\Cmd.csproj.CoreCompileInputs.cache
+C:\Users\Hamid\Desktop\butt\Cmd\obj\Debug\Cmd.csproj.Up2Date
+C:\Users\Hamid\Desktop\butt\Cmd\obj\Debug\Cmd.exe
+C:\Users\Hamid\Desktop\butt\Cmd\obj\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\bin\Debug\Cmd.exe.config
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\bin\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\bin\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\bin\Debug\NewLibrary.dll
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\bin\Debug\NewLibrary.pdb
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\obj\Debug\Cmd.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\obj\Debug\Cmd.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\obj\Debug\Cmd.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\obj\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\new version\ams\Cmd\obj\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\bin\Debug\Cmd.exe.config
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\bin\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\bin\Debug\Cmd.pdb
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\bin\Debug\NewLibrary.dll
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\bin\Debug\NewLibrary.pdb
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\obj\Debug\Cmd.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\obj\Debug\Cmd.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\obj\Debug\Cmd.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\obj\Debug\Cmd.exe
+C:\Users\LENOVO\Desktop\OOp\ams\Cmd\obj\Debug\Cmd.pdb

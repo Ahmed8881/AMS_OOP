@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\oop project\projects\login\bin\Release\login.exe.config
+C:\Users\LENOVO\Desktop\oop project\projects\login\bin\Release\login.exe
+C:\Users\LENOVO\Desktop\oop project\projects\login\bin\Release\login.pdb
+C:\Users\LENOVO\Desktop\oop project\projects\login\bin\Release\Guna.UI2.dll
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.UI.Admin.Add_Flight.resources
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.UI.Admin_Panel.resources
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.UI.Admin.RemoveFlight.resources
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.UI.Admin.UpdateFlight.resources
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.Login.resources
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.UI.SignUP.resources
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.exe
+C:\Users\LENOVO\Desktop\oop project\projects\login\obj\Release\login.pdb

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\objecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|solutionrelative:objecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|c:\\users\\hamid\\desktop\\butt\\cmd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\ui\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|solutionrelative:ui\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\AppData\\Local\\Temp\\ee0bbc9b-744f-4078-901a-d3fab3314fa4_SkyLinesNew[1].zip.fa4\\SkyLinesNew\\UI\\UtilityUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\ui\\headerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|solutionrelative:ui\\headerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\ui\\flightui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|solutionrelative:ui\\flightui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\ui\\clientui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|solutionrelative:ui\\clientui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0751838D-DA13-4B8B-9217-C082EA745F22}|Cmd.csproj|solutionrelative:ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtilityUI.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\ee0bbc9b-744f-4078-901a-d3fab3314fa4_SkyLinesNew[1].zip.fa4\\SkyLinesNew\\UI\\UtilityUI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\LENOVO\\AppData\\Local\\Temp\\ee0bbc9b-744f-4078-901a-d3fab3314fa4_SkyLinesNew[1].zip.fa4\\SkyLinesNew\\UI\\UtilityUI.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\ee0bbc9b-744f-4078-901a-d3fab3314fa4_SkyLinesNew[1].zip.fa4\\SkyLinesNew\\UI\\UtilityUI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\LENOVO\\AppData\\Local\\Temp\\ee0bbc9b-744f-4078-901a-d3fab3314fa4_SkyLinesNew[1].zip.fa4\\SkyLinesNew\\UI\\UtilityUI.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAYwJcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:09:27.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientUI.cs",
+              "DocumentMoniker": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\ClientUI.cs",
+              "RelativeDocumentMoniker": "UI\\ClientUI.cs",
+              "ToolTip": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\ClientUI.cs",
+              "RelativeToolTip": "UI\\ClientUI.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwEcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:51:55.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\AdminUI.cs",
+              "RelativeDocumentMoniker": "UI\\AdminUI.cs",
+              "ToolTip": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\AdminUI.cs",
+              "RelativeToolTip": "UI\\AdminUI.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:51:55.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\ObjectHandler.cs",
+              "RelativeDocumentMoniker": "ObjectHandler.cs",
+              "ToolTip": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\ObjectHandler.cs",
+              "RelativeToolTip": "ObjectHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:51:55.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlightUI.cs",
+              "DocumentMoniker": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\FlightUI.cs",
+              "RelativeDocumentMoniker": "UI\\FlightUI.cs",
+              "ToolTip": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\FlightUI.cs",
+              "RelativeToolTip": "UI\\FlightUI.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAqwDEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:51:55.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeaderUI.cs",
+              "DocumentMoniker": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\HeaderUI.cs",
+              "RelativeDocumentMoniker": "UI\\HeaderUI.cs",
+              "ToolTip": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\HeaderUI.cs",
+              "RelativeToolTip": "UI\\HeaderUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:51:55.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUI.cs",
+              "DocumentMoniker": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\LoginUI.cs",
+              "RelativeDocumentMoniker": "UI\\LoginUI.cs",
+              "ToolTip": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\UI\\LoginUI.cs",
+              "RelativeToolTip": "UI\\LoginUI.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwDQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:51:55.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hamid\\Desktop\\butt\\Cmd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:51:56.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
