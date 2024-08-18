@@ -1,6 +1,12 @@
 # Airline Management System (AMS)
-![DreamFlights](https://github.com/user-attachments/assets/a9ad8705-c434-47d2-946b-ba0351a9514a)
 
+## Application UI:
+
+![Screenshot 2024-08-18 154956](https://github.com/user-attachments/assets/0faa9d53-f2a8-4a3e-86a0-97eb190e8c83)
+
+![Screenshot 2024-08-18 155027](https://github.com/user-attachments/assets/ecf2fa9c-6cd7-4bf6-8a9e-87d325ef7c81)
+
+![Screenshot 2024-08-18 155122](https://github.com/user-attachments/assets/a78c20d0-ea2d-4447-9a0c-c74861118236)
 ## Overview
 
 The Airline Management System (AMS) is a comprehensive software solution built using pure Object-Oriented Programming (OOP) principles in C#. It features a WinForms-based graphical user interface and incorporates both file handling and database management for data storage and retrieval. The system is designed to streamline and manage various aspects of airline operations.
